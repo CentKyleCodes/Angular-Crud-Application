@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  
+  "employees": [
+    {
+      "firstName": "Vincent Kyle",
+      "lastName": "Aluzan",
+      "email": "admin123@gmail.com",
+      "dob": "2023-11-16T08:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "dwadwa",
+      "experience": 22,
+      "package": 213,
+      "id": 1
+    }
+  ]
+}
